@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "BloodStream",
+      "image": "https://media.giphy.com/media/47GPt9aLxqd9NHyPms/giphy.gif",
+      "description": "API Game Amalgamator (WIP)",
+      "link": "https://jameskendallbruce.github.io/Project-1/"
+    },
+    {
+      "id": 2,
+      "name": "TRIALofANIMA",
+      "image": "https://github.com/danielpruitt/mindrpg/raw/master/gifs/TOA-02.gif",
+      "description": "Simple React Game",
+      "link": "https://trialofanima.herokuapp.com"
+    },
+    {
+      "id": 3,
+      "name": "Seisan",
+      "image": "https://media.giphy.com/media/oVjUbHO16mNEhzFDRL/giphy.gif",
+      "description": "Kanban Board for Individuals (WIP)",
+      "link": "https://powerful-spire-47011.herokuapp.com/"
+
+      
+    }
+  ]
